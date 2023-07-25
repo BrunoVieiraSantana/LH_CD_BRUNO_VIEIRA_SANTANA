@@ -28,7 +28,9 @@ python -m pip install -r requirements.txt
 ```
 
 O Projeto pode ser executado através do arquivo `relatorio.ipynb`<br />
-Ou pode ser visualizado através do arquivo `relatorio.pdf`
+Ou pode ser visualizado através do arquivo `relatorio.pdf`<br />
+<br />
+O resultado final do modelo pode ser acessado através do arquivo `predicted.csv`
 
 
 
