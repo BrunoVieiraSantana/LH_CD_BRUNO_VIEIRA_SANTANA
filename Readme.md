@@ -6,7 +6,6 @@
 </span>
 
 <p align="center">
-Descrição do Projeto<br />
 Neste projeto o objetivo foi analisar um conjunto de dados fornecido, realizar uma análise exploratória, pré-processamento dos dados e criar um modelo preditivo para precificar os veículos.
   
 </p>
