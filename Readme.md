@@ -30,11 +30,7 @@ python -m pip install -r requirements.txt
 O Projeto pode ser executado através do arquivo `relatorio.ipynb`<br />
 Ou pode ser visualizado através do arquivo `relatorio.pdf`
 
-<strong>Bibliotecas utilizadas</strong><br />
-pandas<br />
-matplotlib<br />
-eaborn<br />
-scikit-learn<br />
+
 
 
 </p>
