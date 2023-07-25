@@ -39,4 +39,3 @@ scikit-learn<br />
 
 </p>
 
-O Projeto pode ser executado através do arquivo `relatorio.ipynb`
